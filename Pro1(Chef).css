@@ -44,7 +44,7 @@ nav ul li a:hover
 }
 #back
 {
-    background-image: url(Image/back.jpg);
+    background-image: url(Images/back.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position:initial;
